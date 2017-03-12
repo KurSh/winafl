@@ -1,3 +1,6 @@
 [submodule "intelpt/processor-trace"]
 	path = intelpt/processor-trace
 	url = https://github.com/richinseattle/processor-trace.git
+[submodule "dynamorio"]
+	path = dynamorio
+	url = https://github.com/richinseattle/dynamorio.git
