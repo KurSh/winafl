@@ -4,3 +4,6 @@
 [submodule "dynamorio"]
 	path = dynamorio
 	url = https://github.com/richinseattle/dynamorio.git
+[submodule "intelpt/WindowsIntelPT"]
+	path = intelpt/WindowsIntelPT
+	url = https://github.com/intelpt/WindowsIntelPT.git
